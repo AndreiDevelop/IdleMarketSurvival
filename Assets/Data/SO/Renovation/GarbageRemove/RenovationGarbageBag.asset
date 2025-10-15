@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0dca3ba6c6ff4fe7a34716ffe22d7e4, type: 3}
+  m_Name: RenovationGarbageBag
+  m_EditorClassIdentifier: 
+  _name: Garbage Bag
+  _spriteId: 2
+  _prefab: {fileID: 7293143197540167376, guid: 56afa5cbbcb384603bab31d6c49ec98f, type: 3}

@@ -1,0 +1,462 @@
+fileFormatVersion: 2
+guid: 0db50cd6cf34a4546a490df84081480c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5232849685630543361
+    second: CholocateMachines_0
+  - first:
+      213: -6469769658061198253
+    second: CholocateMachines_1
+  - first:
+      213: 5373444701185003616
+    second: CholocateMachines_2
+  - first:
+      213: -7399008395428587729
+    second: CholocateMachines_3
+  - first:
+      213: 4547753352619812215
+    second: CholocateMachines_4
+  - first:
+      213: -5271054676699198738
+    second: CholocateMachines_5
+  - first:
+      213: -1743286288795733066
+    second: CholocateMachines_6
+  - first:
+      213: -8226147095941750193
+    second: CholocateMachines_7
+  - first:
+      213: 6060456290328125568
+    second: CholocateMachines_8
+  - first:
+      213: -947291867847479223
+    second: CholocateMachines_9
+  - first:
+      213: -5802508112197477487
+    second: CholocateMachines_10
+  - first:
+      213: -3240165497785222575
+    second: CholocateMachines_11
+  - first:
+      213: 7453896583195511366
+    second: CholocateMachines_12
+  - first:
+      213: -1042959550648847769
+    second: CholocateMachines_13
+  - first:
+      213: 7480970795438194673
+    second: CholocateMachines_14
+  - first:
+      213: 2909195570690775277
+    second: CholocateMachines_15
+  - first:
+      213: 162470107820095342
+    second: CholocateMachines_16
+  - first:
+      213: 275079971973934948
+    second: CholocateMachines_17
+  - first:
+      213: 3337086440628581406
+    second: CholocateMachines_18
+  - first:
+      213: 888907934983512297
+    second: CholocateMachines_19
+  - first:
+      213: 5296220232785641780
+    second: CholocateMachines_20
+  - first:
+      213: -8349956453461989918
+    second: CholocateMachines_21
+  - first:
+      213: 2173591516185139333
+    second: CholocateMachines_22
+  - first:
+      213: 7675448146907441262
+    second: CholocateMachines_23
+  - first:
+      213: -7961181533394315230
+    second: CholocateMachines_24
+  - first:
+      213: -1605617127740364776
+    second: CholocateMachines_25
+  - first:
+      213: -4105173516941108377
+    second: CholocateMachines_26
+  - first:
+      213: 7449911771656679518
+    second: CholocateMachines_27
+  - first:
+      213: -5625590798020728550
+    second: CholocateMachines_28
+  - first:
+      213: 635321940913295745
+    second: CholocateMachines_29
+  - first:
+      213: -6093291877842049667
+    second: CholocateMachines_30
+  - first:
+      213: -6211370875676386994
+    second: CholocateMachines_31
+  - first:
+      213: 8289037073543023902
+    second: CholocateMachines_32
+  - first:
+      213: -3348865088137495132
+    second: CholocateMachines_33
+  - first:
+      213: 676779213632021052
+    second: CholocateMachines_34
+  - first:
+      213: -2012900148304841620
+    second: CholocateMachines_35
+  - first:
+      213: 2280900885405738471
+    second: CholocateMachines_36
+  - first:
+      213: 8353264935602452987
+    second: CholocateMachines_37
+  - first:
+      213: -2060920528517200734
+    second: CholocateMachines_38
+  - first:
+      213: 2280264367128175435
+    second: CholocateMachines_39
+  - first:
+      213: 793884367168418960
+    second: CholocateMachines_40
+  - first:
+      213: -4157653266723506068
+    second: CholocateMachines_41
+  - first:
+      213: 2152035417466451968
+    second: CholocateMachines_42
+  - first:
+      213: 8981940437690391764
+    second: CholocateMachines_43
+  - first:
+      213: 2101208763847937200
+    second: CholocateMachines_44
+  - first:
+      213: -268992173023440162
+    second: CholocateMachines_45
+  - first:
+      213: 2073631675667400426
+    second: CholocateMachines_46
+  - first:
+      213: 2369171576588302458
+    second: CholocateMachines_47
+  - first:
+      213: 1558593137455126182
+    second: CholocateMachines_48
+  - first:
+      213: 8477747978990564042
+    second: CholocateMachines_49
+  - first:
+      213: -8858740088431512526
+    second: CholocateMachines_50
+  - first:
+      213: 2730592615088344098
+    second: CholocateMachines_51
+  - first:
+      213: 4169885529795989203
+    second: CholocateMachines_52
+  - first:
+      213: -1584950847581250431
+    second: CholocateMachines_53
+  - first:
+      213: -4398686566540205548
+    second: CholocateMachines_54
+  - first:
+      213: -5511727012403585335
+    second: CholocateMachines_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BarMachine
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 455
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1122ac9b14e418588a4308a2606438
+      internalID: -1475886025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockMachine
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 512
+        width: 455
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3bb3553c7e24b7080fa6fe1ba4033e
+      internalID: 777420195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CookiesMachine
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 512
+        width: 455
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae90ce0ebd614f57ad2d032b7e6ef82
+      internalID: -1048885580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IcecreamMachine
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 455
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6951b6d00d124632a8b1d04a6b89c5f
+      internalID: -1173390975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CruasanMachine
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 0
+        width: 455
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9b1b011dc2e4d0690192df640cbf56
+      internalID: -2051804582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CakeMachine
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 0
+        width: 455
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbef5ae53ad244de3a9dd2e096ab464a
+      internalID: -1781377494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 74e36440d4abf4d2c80d3248eec07dcc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BarMachine: -1475886025
+      BlockMachine: 777420195
+      CakeMachine: -1781377494
+      CookiesMachine: -1048885580
+      CruasanMachine: -2051804582
+      IcecreamMachine: -1173390975
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

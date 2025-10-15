@@ -1,0 +1,630 @@
+fileFormatVersion: 2
+guid: 1886be217d1af4afdac2636c347115d8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2716828507819501016
+    second: ChocolateItems (1)_0
+  - first:
+      213: 7863608764528341407
+    second: ChocolateItems (1)_1
+  - first:
+      213: -8813915361933860102
+    second: ChocolateItems (1)_2
+  - first:
+      213: 2544635870767235103
+    second: ChocolateItems (1)_3
+  - first:
+      213: 8808696711850016038
+    second: ChocolateItems (1)_4
+  - first:
+      213: -5919140798268385885
+    second: ChocolateItems (1)_5
+  - first:
+      213: 3911219993458553492
+    second: ChocolateItems (1)_6
+  - first:
+      213: 1150747606128747494
+    second: ChocolateItems (1)_7
+  - first:
+      213: -1058281937438508819
+    second: ChocolateItems (1)_8
+  - first:
+      213: -3679686680760783295
+    second: ChocolateItems (1)_9
+  - first:
+      213: -6862471958069172109
+    second: ChocolateItems (1)_10
+  - first:
+      213: -7245769974356894084
+    second: ChocolateItems (1)_11
+  - first:
+      213: 5376159240244726084
+    second: ChocolateItems (1)_12
+  - first:
+      213: 7923891751124344071
+    second: ChocolateItems (1)_13
+  - first:
+      213: 7753623359200314025
+    second: ChocolateItems (1)_14
+  - first:
+      213: -9168157133607235691
+    second: ChocolateItems (1)_15
+  - first:
+      213: 4308222531088737990
+    second: ChocolateItems (1)_16
+  - first:
+      213: -474899465322434192
+    second: ChocolateItems (1)_17
+  - first:
+      213: 1935968277583906014
+    second: ChocolateItems (1)_18
+  - first:
+      213: -8088637065754807421
+    second: ChocolateItems (1)_19
+  - first:
+      213: 1961534461852147743
+    second: ChocolateItems (1)_20
+  - first:
+      213: -5288892801347763470
+    second: ChocolateItems (1)_21
+  - first:
+      213: 2520083861398345514
+    second: ChocolateItems (1)_22
+  - first:
+      213: -2697718256465608928
+    second: ChocolateItems (1)_23
+  - first:
+      213: -1025405313906758202
+    second: ChocolateItems (1)_24
+  - first:
+      213: 4477555182235364572
+    second: ChocolateItems (1)_25
+  - first:
+      213: 8290010579935267342
+    second: ChocolateItems (1)_26
+  - first:
+      213: 2336482535297799295
+    second: ChocolateItems (1)_27
+  - first:
+      213: 8679537247616494036
+    second: ChocolateItems (1)_28
+  - first:
+      213: -6111663150169107655
+    second: ChocolateItems (1)_29
+  - first:
+      213: -5584938327786224858
+    second: ChocolateItems (1)_30
+  - first:
+      213: 5456653767625808079
+    second: ChocolateItems (1)_31
+  - first:
+      213: -3415492492444385996
+    second: ChocolateItems (1)_32
+  - first:
+      213: 3247185608043299614
+    second: ChocolateItems (1)_33
+  - first:
+      213: 8511198348567160868
+    second: ChocolateItems (1)_34
+  - first:
+      213: 6363886699203056174
+    second: ChocolateItems (1)_35
+  - first:
+      213: -3538119323841560136
+    second: ChocolateItems (1)_36
+  - first:
+      213: 5513221022145949435
+    second: ChocolateItems (1)_37
+  - first:
+      213: 3081814061171050053
+    second: ChocolateItems (1)_38
+  - first:
+      213: -8302477312694826837
+    second: ChocolateItems (1)_39
+  - first:
+      213: -7244302100847678804
+    second: ChocolateItems (1)_40
+  - first:
+      213: -4787761333542615853
+    second: ChocolateItems (1)_41
+  - first:
+      213: 6136982213814892015
+    second: ChocolateItems (1)_42
+  - first:
+      213: 587616832419059725
+    second: ChocolateItems (1)_43
+  - first:
+      213: 8296428525331415174
+    second: ChocolateItems (1)_44
+  - first:
+      213: -4552756791107060934
+    second: ChocolateItems (1)_45
+  - first:
+      213: -8675454460755169599
+    second: ChocolateItems (1)_46
+  - first:
+      213: -8115824983494455100
+    second: ChocolateItems (1)_47
+  - first:
+      213: 1983695848155519636
+    second: ChocolateItems (1)_48
+  - first:
+      213: 3394862874475563241
+    second: ChocolateItems (1)_49
+  - first:
+      213: -7647510337177743811
+    second: ChocolateItems (1)_50
+  - first:
+      213: -1447196753241411529
+    second: ChocolateItems (1)_51
+  - first:
+      213: -3319507868712582049
+    second: ChocolateItems (1)_52
+  - first:
+      213: 4953794236667529018
+    second: ChocolateItems (1)_53
+  - first:
+      213: -2267079347804657333
+    second: ChocolateItems (1)_54
+  - first:
+      213: 5073747059157556607
+    second: ChocolateItems (1)_55
+  - first:
+      213: -6948226482875863211
+    second: ChocolateItems (1)_56
+  - first:
+      213: 3119345436911465141
+    second: ChocolateItems (1)_57
+  - first:
+      213: 8262641404948505423
+    second: ChocolateItems (1)_58
+  - first:
+      213: -8124951235528110953
+    second: ChocolateItems (1)_59
+  - first:
+      213: -139670473690125797
+    second: ChocolateItems (1)_60
+  - first:
+      213: -5074580114577214918
+    second: ChocolateItems (1)_61
+  - first:
+      213: -6084758486677684870
+    second: ChocolateItems (1)_62
+  - first:
+      213: 4107491486539027472
+    second: ChocolateItems (1)_63
+  - first:
+      213: 6013513812450410139
+    second: ChocolateItems (1)_64
+  - first:
+      213: -1186324852077570776
+    second: ChocolateItems (1)_65
+  - first:
+      213: -8333430414588052345
+    second: ChocolateItems (1)_66
+  - first:
+      213: -4223992105351430206
+    second: ChocolateItems (1)_67
+  - first:
+      213: 6515966475385525512
+    second: ChocolateItems (1)_68
+  - first:
+      213: 8753940759330876872
+    second: ChocolateItems (1)_69
+  - first:
+      213: -6956982124954617352
+    second: ChocolateItems (1)_70
+  - first:
+      213: 7435191081945962711
+    second: ChocolateItems (1)_71
+  - first:
+      213: -6787941972006381511
+    second: ChocolateItems (1)_72
+  - first:
+      213: 1531695307044676997
+    second: ChocolateItems (1)_73
+  - first:
+      213: -6655745748165552909
+    second: ChocolateItems (1)_74
+  - first:
+      213: -5784124041007626995
+    second: ChocolateItems (1)_75
+  - first:
+      213: 6454306451178427079
+    second: ChocolateItems (1)_76
+  - first:
+      213: -2910497838311822511
+    second: ChocolateItems (1)_77
+  - first:
+      213: -5535324766794602329
+    second: ChocolateItems (1)_78
+  - first:
+      213: -8114411079177671627
+    second: ChocolateItems (1)_79
+  - first:
+      213: 2778662366464197741
+    second: ChocolateItems (1)_80
+  - first:
+      213: 4566018407012446370
+    second: ChocolateItems (1)_81
+  - first:
+      213: -8317324402479305331
+    second: ChocolateItems (1)_82
+  - first:
+      213: 4147237969432947280
+    second: ChocolateItems (1)_83
+  - first:
+      213: 8554586755192889967
+    second: ChocolateItems (1)_84
+  - first:
+      213: -324783653018870402
+    second: ChocolateItems (1)_85
+  - first:
+      213: 7661456751210082458
+    second: ChocolateItems (1)_86
+  - first:
+      213: 1136200414283469659
+    second: ChocolateItems (1)_87
+  - first:
+      213: 7157543030579258743
+    second: ChocolateItems (1)_88
+  - first:
+      213: 8186494346425472873
+    second: ChocolateItems (1)_89
+  - first:
+      213: 2600766386257105677
+    second: ChocolateItems (1)_90
+  - first:
+      213: -8037895931664062234
+    second: ChocolateItems (1)_91
+  - first:
+      213: 5582130674562359410
+    second: ChocolateItems (1)_92
+  - first:
+      213: 6624083665588858439
+    second: ChocolateItems (1)_93
+  - first:
+      213: 5647883350540628947
+    second: ChocolateItems (1)_94
+  - first:
+      213: -6676294056076736710
+    second: ChocolateItems (1)_95
+  - first:
+      213: -3434948236262936965
+    second: ChocolateItems (1)_96
+  - first:
+      213: -5682104103012023670
+    second: ChocolateItems (1)_97
+  - first:
+      213: 4608592792589620544
+    second: ChocolateItems (1)_98
+  - first:
+      213: 2667805537959754286
+    second: ChocolateItems (1)_99
+  - first:
+      213: 4482724869462411699
+    second: ChocolateItems (1)_100
+  - first:
+      213: -5595845401135189089
+    second: ChocolateItems (1)_101
+  - first:
+      213: 2434759189268580022
+    second: ChocolateItems (1)_102
+  - first:
+      213: -1346857883587049107
+    second: ChocolateItems (1)_103
+  - first:
+      213: -2983235359301854701
+    second: ChocolateItems (1)_104
+  - first:
+      213: -5098832767008047593
+    second: ChocolateItems (1)_105
+  - first:
+      213: 8008537978538866343
+    second: ChocolateItems (1)_106
+  - first:
+      213: -6221754733470995056
+    second: ChocolateItems (1)_107
+  - first:
+      213: -6857174498711881233
+    second: ChocolateItems (1)_108
+  - first:
+      213: -8887758974222414616
+    second: ChocolateItems (1)_109
+  - first:
+      213: -4003313050695952658
+    second: ChocolateItems (1)_110
+  - first:
+      213: -5049019909564000697
+    second: ChocolateItems (1)_111
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChocolateItems_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 455
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb36dfd0dedea40388007049f87bfcc5
+      internalID: -1850999047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChocolateItems_1
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 512
+        width: 455
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ade75877b17c4502a62df6bae803bf2
+      internalID: 1816620544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChocolateItems_2
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 512
+        width: 455
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15f491e6ce7e4dd6b18b338961ed6d2
+      internalID: -1228655790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChocolateItems_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 455
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a231a581874c94cbaaaa803b94b3af80
+      internalID: 84546705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChocolateItems_4
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 0
+        width: 455
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9c5e9d18c1c41dd9692e720e66ae7d
+      internalID: 964426708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChocolateItems_5
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 0
+        width: 455
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c4dfd4034c248349c8ad8d91fdb150
+      internalID: 2140246280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 56a4af72a8de845848681b74948beff5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ChocolateItems_0: -1850999047
+      ChocolateItems_1: 1816620544
+      ChocolateItems_2: -1228655790
+      ChocolateItems_3: 84546705
+      ChocolateItems_4: 964426708
+      ChocolateItems_5: 2140246280
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

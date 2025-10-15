@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cac21bd5d004417967feef9b86ebd2d, type: 3}
+  m_Name: RenovationTree
+  m_EditorClassIdentifier: 
+  _name: Tree
+  _sprite: {fileID: -4979526291247378070, guid: 30028f56381264e60840336f0af20d9d, type: 3}
+  _prefab: {fileID: 7873617049628567927, guid: 2880ad9587bbf4123bffdff7bee3dd9e, type: 3}

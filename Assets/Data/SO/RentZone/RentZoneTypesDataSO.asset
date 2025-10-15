@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47b47fe9d251c40509b08d1f55692255, type: 3}
+  m_Name: RentZoneTypesDataSO
+  m_EditorClassIdentifier: 
+  Data:
+  - Name: "\u0426\u0435\u0445"
+    Type: 0
+    Icon: {fileID: 21300000, guid: 8ce7d0e9cb5184e2298eedeb3266e9be, type: 3}
+  - Name: "\u0421ommercial Real Estate"
+    Type: 1
+    Icon: {fileID: 21300000, guid: e7c05530f67fb4b88a49e354e91a262a, type: 3}
+  - Name: Environment
+    Type: 2
+    Icon: {fileID: 21300000, guid: 3d2b6e44481704ebf8d57a06ef31feb6, type: 3}

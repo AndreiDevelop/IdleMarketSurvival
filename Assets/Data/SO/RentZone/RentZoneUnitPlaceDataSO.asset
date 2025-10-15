@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecdf46bb535e4405937c2c2f8086df67, type: 3}
+  m_Name: RentZoneUnitPlaceDataSO
+  m_EditorClassIdentifier: 
+  Data:
+  - RentZoneId: 0
+    Id: 0
+    BuyCost: 50
+  - RentZoneId: 0
+    Id: 1
+    BuyCost: 60
+  - RentZoneId: 0
+    Id: 2
+    BuyCost: 70
+  - RentZoneId: 0
+    Id: 3
+    BuyCost: 80
+  - RentZoneId: 1
+    Id: 0
+    BuyCost: 55
+  - RentZoneId: 1
+    Id: 1
+    BuyCost: 66
+  - RentZoneId: 1
+    Id: 2
+    BuyCost: 77
+  - RentZoneId: 1
+    Id: 3
+    BuyCost: 88

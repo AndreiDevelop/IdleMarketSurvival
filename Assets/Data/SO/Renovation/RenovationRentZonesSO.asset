@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b38c7b6e731846c18bbae5a229845791, type: 3}
+  m_Name: RenovationRentZonesSO
+  m_EditorClassIdentifier: 
+  Data:
+  - _rentZoneId: 0
+    RenovationStep:
+    - _propsAddData: {fileID: 11400000, guid: bba1dc45d99bb44848e637ee41c300e0, type: 2}
+      _count: 2
+    - _propsAddData: {fileID: 11400000, guid: d124c2e3c0d534a09a4525a568259ff6, type: 2}
+      _count: 1
