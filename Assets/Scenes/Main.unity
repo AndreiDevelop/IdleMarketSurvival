@@ -361,7 +361,7 @@ Camera:
   far clip plane: 1000
   field of view: 34
   orthographic: 1
-  orthographic size: 3.27
+  orthographic size: 20
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -385,12 +385,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.83, y: 4.21, z: -10}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.7219706, y: 3, z: -28.4}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 808007332}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &610810551
 GameObject:
@@ -467,6 +467,38 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 610810551}
   m_CullTransparentMesh: 1
+--- !u!1 &808007331
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 808007332}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &808007332
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 808007331}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.40396976, y: 0.3490196, z: -0.1702282, w: 0.8282609}
+  m_LocalPosition: {x: -0.108029366, y: 1.2468666, z: -0.35882044}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 519420032}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 52, y: 45.7, z: 0}
 --- !u!1 &1082652082
 GameObject:
   m_ObjectHideFlags: 0
@@ -743,6 +775,10 @@ PrefabInstance:
     - target: {fileID: 7752564688689907534, guid: 8b6f56eb08fec418dae3cd685a48aced, type: 3}
       propertyPath: m_Name
       value: SceneMainContext
+      objectReference: {fileID: 0}
+    - target: {fileID: 7752564688689907534, guid: 8b6f56eb08fec418dae3cd685a48aced, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1707,7 +1743,7 @@ RectTransform:
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
-  - {fileID: 519420032}
   - {fileID: 1735734366}
   - {fileID: 2065568115}
   - {fileID: 1449331510}
+  - {fileID: 808007332}
