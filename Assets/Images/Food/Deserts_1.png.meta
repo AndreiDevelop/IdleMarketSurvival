@@ -535,7 +535,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Deserts_1_0: -9189706602134972441
+      Deserts_1_1: -6355276880262471730
+      Deserts_1_10: 6333450508103437217
+      Deserts_1_11: -1191018431448855764
+      Deserts_1_12: -6510901704813933458
+      Deserts_1_13: -2401797845912613675
+      Deserts_1_14: 91998238067166072
+      Deserts_1_15: -3361138148533142266
+      Deserts_1_2: -7083497518262316760
+      Deserts_1_3: 2208307340201289386
+      Deserts_1_4: 4190006540855972199
+      Deserts_1_5: 664229408272910965
+      Deserts_1_6: -7569029815319237400
+      Deserts_1_7: 4611550546540296260
+      Deserts_1_8: 4109785213171982703
+      Deserts_1_9: 3859759034834629411
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
