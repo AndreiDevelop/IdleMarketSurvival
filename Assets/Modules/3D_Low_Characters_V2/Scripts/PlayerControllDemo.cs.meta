@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 6142ad1cfd39f2f4d9a6b4fbc8125fd1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 238368
+  packageName: 3D Pack A Group 2 (023 at 044) = 22 Characters (Animated) - Low Poly
+    - FBX
+  packageVersion: 1.0
+  assetPath: Assets/Puxxe_Studio/3D_Low_Characters_V2/Scripts/PlayerControllDemo.cs
+  uploadId: 545678
